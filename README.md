@@ -1,2 +1,2 @@
 # thesocialmediaproject
-Facebook lookalike functionality webiste from Django &amp; React
+Its the DRF project to create endpoints for social media project.
