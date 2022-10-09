@@ -1,2 +1,2 @@
 # thesocialmediaproject
-Its the DRF project to create endpoints for social media project.
+This DRF project is to create the endpoints for social media project.
