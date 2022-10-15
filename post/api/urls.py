@@ -9,3 +9,4 @@ urlpatterns = [
     path('<int:pk>/comment/', CommentCreate.as_view(), name='commentcreate'),
     path('comment/<int:pk>/', CommentDetail.as_view(), name='commentdetail')
 ]
+
